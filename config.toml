@@ -1,0 +1,8 @@
+baseURL = "https://anubhab-beep.github.io/"
+languageCode = "en-us"
+title = "Anubhab Das"
+theme = "qubt"
+[outputs]
+home = ["HTML", "RSS"]
+[outputs]
+home = ["HTML", "RSS"]
