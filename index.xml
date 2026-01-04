@@ -1,49 +1,120 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Anubhab Das</title>
-    <link>https://anubhabdas.com/</link>
-    <description>Recent content on Anubhab Das</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>anubhabd06@gmail.com (Anubhab Das)</managingEditor>
-    <webMaster>anubhabd06@gmail.com (Anubhab Das)</webMaster>
-    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://anubhabdas.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://anubhabdas.com/about/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><author>anubhabd06@gmail.com (Anubhab Das)</author>
-      <guid>https://anubhabdas.com/about/</guid>
-      <description>&lt;h1 id=&#34;anubhab-das&#34;&gt;Anubhab Das&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ceramic Engineering Student | Problem Solver | Technical Writer&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I am a passionate B.Tech student in Ceramic Engineering at the &lt;strong&gt;Government College of Engineering and Ceramic Technology (GCECT)&lt;/strong&gt;, Kolkata. With a CGPA of &lt;strong&gt;7.97&lt;/strong&gt;, I am committed to bridging the gap between theoretical knowledge and practical industrial applications in the ceramics industry.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-educational-journey&#34;&gt;🎓 Educational Journey&lt;/h2&gt;&#xA;&lt;h3 id=&#34;btech-in-ceramic-engineering-2024---2028&#34;&gt;B.Tech in Ceramic Engineering (2024 - 2028)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Government College of Engineering and Ceramic Technology, Kolkata&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Advanced Ceramics - InCerS Guide</title>
-      <link>https://anubhabdas.com/research/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><author>anubhabd06@gmail.com (Anubhab Das)</author>
-      <guid>https://anubhabdas.com/research/</guid>
-      <description>&lt;h1 id=&#34;advanced-ceramics-topics&#34;&gt;Advanced Ceramics Topics&lt;/h1&gt;&#xA;&lt;h3 id=&#34;incers-student-chapter---gcect&#34;&gt;InCerS Student Chapter - GCECT&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;A comprehensive guide to emerging ceramic materials and technologies&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-bioceramics&#34;&gt;1. Bioceramics&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Materials like &lt;strong&gt;Hydroxyapatite&lt;/strong&gt; and &lt;strong&gt;Zirconia ($ZrO_2$)&lt;/strong&gt; are engineered to be bioactive or bioinert, specifically designed to bond with bone (osseointegration) or remain stable in body fluids.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Critical for hip/knee replacements and dental implants. The field is moving toward &lt;strong&gt;smart implants&lt;/strong&gt; with sensing capabilities and &lt;strong&gt;bioresorbable scaffolds&lt;/strong&gt; for tissue engineering.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Synthesis:&lt;/strong&gt; Produced via &lt;strong&gt;Sol-Gel&lt;/strong&gt; (for porosity) or &lt;strong&gt;Hydrothermal methods&lt;/strong&gt; to ensure non-toxic, distinct microstructures.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-optical-ceramics&#34;&gt;2. Optical Ceramics&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Polycrystalline materials (e.g., &lt;strong&gt;Nd:YAG&lt;/strong&gt;, &lt;strong&gt;Spinel&lt;/strong&gt;) that achieve &amp;gt;80% transparency and superior mechanical strength compared to glass.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Essential for high-power &lt;strong&gt;solid-state lasers&lt;/strong&gt; and &lt;strong&gt;transparent armor&lt;/strong&gt; in defense. Future uses include high-performance scintillators for medical imaging.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Synthesis:&lt;/strong&gt; Requires advanced &lt;strong&gt;Hot Isostatic Pressing (HIP)&lt;/strong&gt; or &lt;strong&gt;Spark Plasma Sintering (SPS)&lt;/strong&gt; to eliminate all light-scattering pores.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;3-electrical-ceramics&#34;&gt;3. Electrical Ceramics&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Materials functioning as insulators, semiconductors, or piezoelectrics. Key examples include &lt;strong&gt;Barium Titanate ($BaTiO_3$)&lt;/strong&gt; and &lt;strong&gt;PZT&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; The backbone of modern electronics, found in &lt;strong&gt;MLCCs (capacitors)&lt;/strong&gt;, piezoelectric sensors, and 5G filters. Emerging research focuses on &lt;strong&gt;solid-state battery electrolytes&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Synthesis:&lt;/strong&gt; Manufactured using &lt;strong&gt;Tape Casting&lt;/strong&gt; for thin layers and controlled via solid-state reactions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;4-ceramic-membranes&#34;&gt;4. Ceramic Membranes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Inorganic filters (Alumina, Titania) offering extreme chemical and thermal stability for separation processes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Used in harsh environments for &lt;strong&gt;wastewater treatment&lt;/strong&gt; and &lt;strong&gt;hydrogen gas separation&lt;/strong&gt;. They are vital for the future hydrogen economy and carbon capture.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Synthesis:&lt;/strong&gt; Created via &lt;strong&gt;Dip-coating&lt;/strong&gt; or extrusion to form precise pore structures for micro- to nanofiltration.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;5-3d-printing-in-ceramics&#34;&gt;5. 3D Printing in Ceramics&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Additive manufacturing allowing for complex ceramic geometries without expensive tooling.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Revolutionizing &lt;strong&gt;customized medical implants&lt;/strong&gt; and rapid prototyping for aerospace components.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technique:&lt;/strong&gt; Primary methods include &lt;strong&gt;Stereolithography (SLA)&lt;/strong&gt; for high resolution and &lt;strong&gt;Binder Jetting&lt;/strong&gt; for speed.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;6-nuclear-ceramics&#34;&gt;6. Nuclear Ceramics&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Ceramics like &lt;strong&gt;Uranium Dioxide ($UO_2$)&lt;/strong&gt; and &lt;strong&gt;Boron Carbide ($B_4C$)&lt;/strong&gt; chosen for their high melting points and radiation hardness.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Standard for &lt;strong&gt;nuclear fuel pellets&lt;/strong&gt; and &lt;strong&gt;control rods&lt;/strong&gt;. Future applications focus on fusion reactor walls (ITER) and safe waste immobilization (Synroc).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;7-carbon-nanotubes-cnts&#34;&gt;7. Carbon Nanotubes (CNTs)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Cylindrical nanostructures of carbon exhibiting extreme tensile strength and electrical conductivity.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Used to reinforce &lt;strong&gt;ceramic composites&lt;/strong&gt; for aerospace and in next-gen &lt;strong&gt;nano-electronics&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Synthesis:&lt;/strong&gt; Grown via &lt;strong&gt;Chemical Vapor Deposition (CVD)&lt;/strong&gt; or Laser Ablation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;8-electro-optical-ceramics&#34;&gt;8. Electro-optical Ceramics&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Materials like &lt;strong&gt;PLZT&lt;/strong&gt; that change optical properties (birefringence) when an electric field is applied.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Key for &lt;strong&gt;optical switches&lt;/strong&gt;, modulators in telecommunications, and protective eyewear (shutters).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Properties:&lt;/strong&gt; Valued for fast response times and durability against high-intensity light.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;9-high-entropy-ceramics&#34;&gt;9. High Entropy Ceramics&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Solid solutions containing 5 or more principal elements, utilizing the &amp;ldquo;cocktail effect&amp;rdquo; for superior stability.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; The leading candidate for &lt;strong&gt;thermal barrier coatings&lt;/strong&gt; and protection in &lt;strong&gt;hypersonic vehicles&lt;/strong&gt; due to extreme heat resistance.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Future:&lt;/strong&gt; Application in next-generation turbine blades and aerospace shielding.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://anubhabdas.com/contact/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><author>anubhabd06@gmail.com (Anubhab Das)</author>
-      <guid>https://anubhabdas.com/contact/</guid>
-      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get In Touch&lt;/h1&gt;&#xA;&lt;p&gt;I am always eager to connect with fellow students, researchers, industry professionals, and anyone interested in ceramic engineering.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-contact-information&#34;&gt;📞 Contact Information&lt;/h2&gt;&#xA;&lt;div style=&#34;display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;&#34;&gt;&#xD;&#xA;&lt;div style=&#34;background: #1a281dff; padding: 1.5rem; border-radius: 8px; text-align: center;&#34;&gt;&#xD;&#xA;&lt;h3 id=&#34;-email&#34;&gt;📧 Email&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Primary Contact&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:anubhabd06@gmail.com&#34;&gt;anubhabd06@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;I respond within 24-48 hours&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div style=&#34;background: #35113bff; padding: 1.5rem; border-radius: 8px; text-align: center;&#34;&gt;&#xD;&#xA;&lt;h3 id=&#34;-phone&#34;&gt;📱 Phone&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;For Urgent Matters&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;tel:+919038831854&#34;&gt;+91-9038831854&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Available 9 AM - 8 PM IST&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Projects &amp; Work</title>
-      <link>https://anubhabdas.com/projects/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><author>anubhabd06@gmail.com (Anubhab Das)</author>
-      <guid>https://anubhabdas.com/projects/</guid>
-      <description>&lt;h1 id=&#34;my-projects--contributions&#34;&gt;My Projects &amp;amp; Contributions&lt;/h1&gt;&#xA;&lt;p&gt;A showcase of my work in ceramic engineering, from competitive case studies to academic research and technical content creation.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-featured-project&#34;&gt;🏆 Featured Project&lt;/h2&gt;&#xA;&lt;h3 id=&#34;cumi-national-case-study-contest-2025&#34;&gt;CUMI National Case Study Contest 2025&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Achievement:&lt;/strong&gt; 🥉 2nd Runner-up (National Level)&lt;/p&gt;&#xA;&lt;div style=&#34;background: #061926ff; padding: 1.5rem; border-left: 4px solid #2196f3; margin: 2rem 0;&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; Carborundum Universal Limited (CUMI)&lt;br&gt;&#xA;&lt;strong&gt;Role:&lt;/strong&gt; Problem Solver, Researcher                                               &lt;br&gt;&#xA;&lt;strong&gt;Duration:&lt;/strong&gt; October 2025 - December 2025&lt;br&gt;&#xA;&lt;strong&gt;Competition Level:&lt;/strong&gt; National&lt;/p&gt;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h4 id=&#34;-project-overview&#34;&gt;🎯 Project Overview&lt;/h4&gt;&#xA;&lt;p&gt;Participated in a prestigious national-level case study competition where we tackled a complex industrial quality challenge for &lt;strong&gt;Carborundam Universal Limited (CUMI)&lt;/strong&gt;, one of India&amp;rsquo;s leading manufacturers of abrasives, ceramics, refractories, and related products.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Technical Skills &amp; Competencies</title>
-      <link>https://anubhabdas.com/skills/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><author>anubhabd06@gmail.com (Anubhab Das)</author>
-      <guid>https://anubhabdas.com/skills/</guid>
-      <description>&lt;h1 id=&#34;my-technical-skills&#34;&gt;My Technical Skills&lt;/h1&gt;&#xA;&lt;p&gt;A comprehensive overview of my technical capabilities, tools, and competencies developed through academic work, competitions, and hands-on projects.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-programming--data-analysis&#34;&gt;💻 Programming &amp;amp; Data Analysis&lt;/h2&gt;&#xA;&lt;h3 id=&#34;python&#34;&gt;Python&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Proficiency Level:&lt;/strong&gt; Intermediate ⭐⭐⭐⭐☆&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Libraries &amp;amp; Frameworks:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Analysis:&lt;/strong&gt; pandas, numpy&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Visualization:&lt;/strong&gt; matplotlib, seaborn, plotly&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Statistics:&lt;/strong&gt; scipy, statsmodels&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Machine Learning:&lt;/strong&gt; scikit-learn (basic)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Applications:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Manufacturing data analysis&lt;/li&gt;&#xA;&lt;li&gt;Statistical computations&lt;/li&gt;&#xA;&lt;li&gt;Automated reporting&lt;/li&gt;&#xA;&lt;li&gt;Data cleaning and preprocessing&lt;/li&gt;&#xA;&lt;li&gt;Visualization dashboards&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Example Projects:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CUMI case study data analysis (50+ hours of data processing)&lt;/li&gt;&#xA;&lt;li&gt;Quality control automation scripts&lt;/li&gt;&#xA;&lt;li&gt;Defect pattern recognition&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;minitab-statistical-software&#34;&gt;Minitab Statistical Software&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Proficiency Level:&lt;/strong&gt; Advanced ⭐⭐⭐⭐⭐&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anubhab Das</title><link>https://anubhabdas.com/</link><description>Recent content on Anubhab Das</description><generator>Hugo</generator><language>en-us</language><managingEditor>anubhabd06@gmail.com (Anubhab Das)</managingEditor><webMaster>anubhabd06@gmail.com (Anubhab Das)</webMaster><lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://anubhabdas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://anubhabdas.com/about/</link><pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><author>anubhabd06@gmail.com (Anubhab Das)</author><guid>https://anubhabdas.com/about/</guid><description>&lt;h1 id="anubhab-das"&gt;Anubhab Das&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Ceramic Engineering Student | Problem Solver | Technical Writer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am a passionate B.Tech student in Ceramic Engineering at the &lt;strong&gt;Government College of Engineering and Ceramic Technology (GCECT)&lt;/strong&gt;, Kolkata. With a CGPA of &lt;strong&gt;7.97&lt;/strong&gt;, I am committed to bridging the gap between theoretical knowledge and practical industrial applications in the ceramics industry.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-educational-journey"&gt;🎓 Educational Journey&lt;/h2&gt;
+&lt;h3 id="btech-in-ceramic-engineering-2024---2028"&gt;B.Tech in Ceramic Engineering (2024 - 2028)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Government College of Engineering and Ceramic Technology, Kolkata&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Advanced Ceramics - InCerS Guide</title><link>https://anubhabdas.com/research/</link><pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><author>anubhabd06@gmail.com (Anubhab Das)</author><guid>https://anubhabdas.com/research/</guid><description>&lt;h1 id="advanced-ceramics-topics"&gt;Advanced Ceramics Topics&lt;/h1&gt;
+&lt;h3 id="incers-student-chapter---gcect"&gt;InCerS Student Chapter - GCECT&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;A comprehensive guide to emerging ceramic materials and technologies&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="1-bioceramics"&gt;1. Bioceramics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Materials like &lt;strong&gt;Hydroxyapatite&lt;/strong&gt; and &lt;strong&gt;Zirconia ($ZrO_2$)&lt;/strong&gt; are engineered to be bioactive or bioinert, specifically designed to bond with bone (osseointegration) or remain stable in body fluids.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Critical for hip/knee replacements and dental implants. The field is moving toward &lt;strong&gt;smart implants&lt;/strong&gt; with sensing capabilities and &lt;strong&gt;bioresorbable scaffolds&lt;/strong&gt; for tissue engineering.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synthesis:&lt;/strong&gt; Produced via &lt;strong&gt;Sol-Gel&lt;/strong&gt; (for porosity) or &lt;strong&gt;Hydrothermal methods&lt;/strong&gt; to ensure non-toxic, distinct microstructures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="2-optical-ceramics"&gt;2. Optical Ceramics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Polycrystalline materials (e.g., &lt;strong&gt;Nd:YAG&lt;/strong&gt;, &lt;strong&gt;Spinel&lt;/strong&gt;) that achieve &amp;gt;80% transparency and superior mechanical strength compared to glass.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Essential for high-power &lt;strong&gt;solid-state lasers&lt;/strong&gt; and &lt;strong&gt;transparent armor&lt;/strong&gt; in defense. Future uses include high-performance scintillators for medical imaging.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synthesis:&lt;/strong&gt; Requires advanced &lt;strong&gt;Hot Isostatic Pressing (HIP)&lt;/strong&gt; or &lt;strong&gt;Spark Plasma Sintering (SPS)&lt;/strong&gt; to eliminate all light-scattering pores.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="3-electrical-ceramics"&gt;3. Electrical Ceramics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Materials functioning as insulators, semiconductors, or piezoelectrics. Key examples include &lt;strong&gt;Barium Titanate ($BaTiO_3$)&lt;/strong&gt; and &lt;strong&gt;PZT&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; The backbone of modern electronics, found in &lt;strong&gt;MLCCs (capacitors)&lt;/strong&gt;, piezoelectric sensors, and 5G filters. Emerging research focuses on &lt;strong&gt;solid-state battery electrolytes&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synthesis:&lt;/strong&gt; Manufactured using &lt;strong&gt;Tape Casting&lt;/strong&gt; for thin layers and controlled via solid-state reactions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="4-ceramic-membranes"&gt;4. Ceramic Membranes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Inorganic filters (Alumina, Titania) offering extreme chemical and thermal stability for separation processes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Used in harsh environments for &lt;strong&gt;wastewater treatment&lt;/strong&gt; and &lt;strong&gt;hydrogen gas separation&lt;/strong&gt;. They are vital for the future hydrogen economy and carbon capture.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synthesis:&lt;/strong&gt; Created via &lt;strong&gt;Dip-coating&lt;/strong&gt; or extrusion to form precise pore structures for micro- to nanofiltration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="5-3d-printing-in-ceramics"&gt;5. 3D Printing in Ceramics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Additive manufacturing allowing for complex ceramic geometries without expensive tooling.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Revolutionizing &lt;strong&gt;customized medical implants&lt;/strong&gt; and rapid prototyping for aerospace components.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technique:&lt;/strong&gt; Primary methods include &lt;strong&gt;Stereolithography (SLA)&lt;/strong&gt; for high resolution and &lt;strong&gt;Binder Jetting&lt;/strong&gt; for speed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="6-nuclear-ceramics"&gt;6. Nuclear Ceramics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Ceramics like &lt;strong&gt;Uranium Dioxide ($UO_2$)&lt;/strong&gt; and &lt;strong&gt;Boron Carbide ($B_4C$)&lt;/strong&gt; chosen for their high melting points and radiation hardness.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Standard for &lt;strong&gt;nuclear fuel pellets&lt;/strong&gt; and &lt;strong&gt;control rods&lt;/strong&gt;. Future applications focus on fusion reactor walls (ITER) and safe waste immobilization (Synroc).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="7-carbon-nanotubes-cnts"&gt;7. Carbon Nanotubes (CNTs)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Cylindrical nanostructures of carbon exhibiting extreme tensile strength and electrical conductivity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Used to reinforce &lt;strong&gt;ceramic composites&lt;/strong&gt; for aerospace and in next-gen &lt;strong&gt;nano-electronics&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synthesis:&lt;/strong&gt; Grown via &lt;strong&gt;Chemical Vapor Deposition (CVD)&lt;/strong&gt; or Laser Ablation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="8-electro-optical-ceramics"&gt;8. Electro-optical Ceramics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Materials like &lt;strong&gt;PLZT&lt;/strong&gt; that change optical properties (birefringence) when an electric field is applied.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Key for &lt;strong&gt;optical switches&lt;/strong&gt;, modulators in telecommunications, and protective eyewear (shutters).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Properties:&lt;/strong&gt; Valued for fast response times and durability against high-intensity light.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="9-high-entropy-ceramics"&gt;9. High Entropy Ceramics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Core Concept:&lt;/strong&gt; Solid solutions containing 5 or more principal elements, utilizing the &amp;ldquo;cocktail effect&amp;rdquo; for superior stability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; The leading candidate for &lt;strong&gt;thermal barrier coatings&lt;/strong&gt; and protection in &lt;strong&gt;hypersonic vehicles&lt;/strong&gt; due to extreme heat resistance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Future:&lt;/strong&gt; Application in next-generation turbine blades and aerospace shielding.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Contact</title><link>https://anubhabdas.com/contact/</link><pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><author>anubhabd06@gmail.com (Anubhab Das)</author><guid>https://anubhabdas.com/contact/</guid><description>&lt;h1 id="get-in-touch"&gt;Get In Touch&lt;/h1&gt;
+&lt;p&gt;I am always eager to connect with fellow students, researchers, industry professionals, and anyone interested in ceramic engineering.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-contact-information"&gt;📞 Contact Information&lt;/h2&gt;
+&lt;div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;"&gt;
+&lt;div style="background: #1a281dff; padding: 1.5rem; border-radius: 8px; text-align: center;"&gt;
+&lt;h3 id="-email"&gt;📧 Email&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Primary Contact&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:anubhabd06@gmail.com"&gt;anubhabd06@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I respond within 24-48 hours&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style="background: #35113bff; padding: 1.5rem; border-radius: 8px; text-align: center;"&gt;
+&lt;h3 id="-phone"&gt;📱 Phone&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;For Urgent Matters&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="tel:+919038831854"&gt;+91-9038831854&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Available 9 AM - 8 PM IST&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Projects &amp; Work</title><link>https://anubhabdas.com/projects/</link><pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><author>anubhabd06@gmail.com (Anubhab Das)</author><guid>https://anubhabdas.com/projects/</guid><description>&lt;h1 id="my-projects--contributions"&gt;My Projects &amp;amp; Contributions&lt;/h1&gt;
+&lt;p&gt;A showcase of my work in ceramic engineering, from competitive case studies to academic research and technical content creation.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-featured-project"&gt;🏆 Featured Project&lt;/h2&gt;
+&lt;h3 id="cumi-national-case-study-contest-2025"&gt;CUMI National Case Study Contest 2025&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Achievement:&lt;/strong&gt; 🥉 2nd Runner-up (National Level)&lt;/p&gt;
+&lt;div style="background: #061926ff; padding: 1.5rem; border-left: 4px solid #2196f3; margin: 2rem 0;"&gt;
+&lt;p&gt;&lt;strong&gt;Organization:&lt;/strong&gt; Carborundum Universal Limited (CUMI)&lt;br&gt;
+&lt;strong&gt;Role:&lt;/strong&gt; Problem Solver, Researcher &lt;br&gt;
+&lt;strong&gt;Duration:&lt;/strong&gt; October 2025 - December 2025&lt;br&gt;
+&lt;strong&gt;Competition Level:&lt;/strong&gt; National&lt;/p&gt;
+&lt;/div&gt;
+&lt;h4 id="-project-overview"&gt;🎯 Project Overview&lt;/h4&gt;
+&lt;p&gt;Participated in a prestigious national-level case study competition where we tackled a complex industrial quality challenge for &lt;strong&gt;Carborundam Universal Limited (CUMI)&lt;/strong&gt;, one of India&amp;rsquo;s leading manufacturers of abrasives, ceramics, refractories, and related products.&lt;/p&gt;</description></item><item><title>Technical Skills &amp; Competencies</title><link>https://anubhabdas.com/skills/</link><pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate><author>anubhabd06@gmail.com (Anubhab Das)</author><guid>https://anubhabdas.com/skills/</guid><description>&lt;h1 id="my-technical-skills"&gt;My Technical Skills&lt;/h1&gt;
+&lt;p&gt;A comprehensive overview of my technical capabilities, tools, and competencies developed through academic work, competitions, and hands-on projects.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="-programming--data-analysis"&gt;💻 Programming &amp;amp; Data Analysis&lt;/h2&gt;
+&lt;h3 id="python"&gt;Python&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Proficiency Level:&lt;/strong&gt; Intermediate ⭐⭐⭐⭐☆&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Libraries &amp;amp; Frameworks:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Data Analysis:&lt;/strong&gt; pandas, numpy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visualization:&lt;/strong&gt; matplotlib, seaborn, plotly&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Statistics:&lt;/strong&gt; scipy, statsmodels&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine Learning:&lt;/strong&gt; scikit-learn (basic)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Applications:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Manufacturing data analysis&lt;/li&gt;
+&lt;li&gt;Statistical computations&lt;/li&gt;
+&lt;li&gt;Automated reporting&lt;/li&gt;
+&lt;li&gt;Data cleaning and preprocessing&lt;/li&gt;
+&lt;li&gt;Visualization dashboards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example Projects:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CUMI case study data analysis (50+ hours of data processing)&lt;/li&gt;
+&lt;li&gt;Quality control automation scripts&lt;/li&gt;
+&lt;li&gt;Defect pattern recognition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="minitab-statistical-software"&gt;Minitab Statistical Software&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Proficiency Level:&lt;/strong&gt; Advanced ⭐⭐⭐⭐⭐&lt;/p&gt;</description></item></channel></rss>
